@@ -1,1 +1,5 @@
 this file this principal funtion is show this diferents practies, elements or other ejercies the programing this one area
+
+1) this firs proyect and deliveralbel of this area are the class Administrador,cajero$Venta, cajero, cliente, Login and Main this intruction is README this operation the program
+
+
