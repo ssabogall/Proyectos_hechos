@@ -1,0 +1,71 @@
+Buenas querido profesor Aqui le adjunto el codigo del entregable 1
+- integrantes : Santiago Sabogal Lozano
+- Compilador: El programa que utilize es para compilar el codigo fue intellij idea
+- como dato importante para ingresar a cajero o admin cada una tiene una contraseña, entonces aqui le dejo las contraseñas
+        - "cajero123"  (Sin las comillas)
+        - "admin678"   (Sin las comillas)
+
+Ejemplo de como funciona el codigo:
+Crear cuenta (0)
+Login (1)
+Salir (2)
+0
+Ingrese el correo: santisabogal@gmail.com
+Ingrese el Nombre: santiago
+Cliente registrado correctamente.
+Crear cuenta (0)
+Login (1)
+Salir (2)
+1
+Digite su correo: santisabogal@gmail.com
+Digite su nombre: santiago
+0. Cliente:
+1. Cajero:
+2. Administrador:
+3. Salir
+0
+Bienvenido querido cliente a nuestra pagina:
+Cliente: santiago
+Correo electrónico: santisabogal@gmail.com
+Camisa sencilla en cuello V $17,900
+Cargueros de Bad Bunny $1,900,000
+Chaqueta para la nieve $300,000
+0. Cliente:
+1. Cajero:
+2. Administrador:
+3. Salir
+1
+Ingrese la contraseña de Cajero: cajero123
+Hola cajero, por favor registre la venta
+0. Agregar venta
+1. Salir
+0
+Realizando venta...
+Ingrese los detalles de la venta:
+Productos vendidos: 1 camisa
+Precio: 17900
+Venta registrada correctamente.
+0. Agregar venta
+1. Salir
+1
+Hasta la próxima venta, querido cajero.
+0. Cliente:
+1. Cajero:
+2. Administrador:
+3. Salir
+2
+Ingrese la contraseña de Administrador: admin678
+Hola administrador, ¿qué quiere hacer?
+Ponle un codigo al usuario que ingreso
+1234 para el cliente santiago
+0. Cliente:
+1. Cajero:
+2. Administrador:
+3. Salir
+3
+Hasta pronto querido usuario:
+Crear cuenta (0)
+Login (1)
+Salir (2)
+2
+Hasta la próxima vez.
