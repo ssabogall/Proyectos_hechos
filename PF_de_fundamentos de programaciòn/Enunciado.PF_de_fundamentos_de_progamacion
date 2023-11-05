@@ -1,4 +1,29 @@
 Enunciado Proyecto final de fundamentos de programaciòn:
 this one first the maters de programing in the university and this proyect this spicifications asked us create this program in java that makes one parking whit the elements lear in this area
 specifications:
-this class must be conected for this herigate on the class and througth arragements and matrices to create a parking lot
+Application of Object Reference Arrays - Implementation of a Parking Lot in Java".
+
+General Objective:
+To put into practice the concepts learned in the course, especially in relation to object reference arrays.
+
+Specific Objectives:
+
+Implement concepts of object reference arrays.
+To learn how to create a text interface menu.
+Practice reading from text files.
+Use JavaDoc for documentation.
+Build a class diagram in relation to Java code.
+Description:
+In collaboration with a partner (maximum 2 people), we develop an application to manage the information of a parking lot. We created a class 'Cell' that contains references to parked vehicles or is null if there are no vehicles. Also, we implemented the class 'Vehicle' to store data such as license plate, color and time of entry in military format.
+
+The 'Parking Lot' class is an array of cell references, where each row represents a floor of the parking lot.
+
+Interaction:
+We offered the user two ways to interact with the application:
+
+By means of a text menu, the user can:
+Define the number of floors and cells in the parking lot.
+Register the entry of a vehicle, including license plate, color and time of entry.
+Register the exit of a vehicle, including license plate and time of exit, calculating the cost.
+Consult the current status of the parking lot, showing the occupancy of cells, parked vehicles, empty vehicles and total revenue up to that moment.
+Note: It is considered that vehicles do not remain in the parking lot during the night.
