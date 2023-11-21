@@ -12,3 +12,5 @@ El programa debe presentar cuales son las personas más amigas, cual persona tie
 Especificaciones del Programa:
 Los estudiantes tienen libertad para elegir el lenguaje de programación en el que deseen desarrollar el programa.
 El programa debe ser funcional y capaz de analizar un conjunto de datos de mensajes, que incluye información como id_persona_origen, id_persona_destino, fecha y mensaje.
+
+Nota: Es imporatante recalcar que el archivo que se llama salida_consola.json eso lo genera el codigo, no lo creamos nosotros como tal a mano; pero me parece importante adjuntarlo a los archivos.
