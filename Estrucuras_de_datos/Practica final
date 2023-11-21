@@ -1,0 +1,14 @@
+Proyecto final para la asignatura de Estructuras de Datos y Algoritmos 1 
+
+El reto del proyecto final para la asignatura de Estructuras de Datos y Algoritmos 1 consiste en crear un modelo de datos y un programa de computadora que permita analizar los datos de historias de un sistema de chat, como WhatsApp, con el objetivo de identificar las relaciones entre las personas que se comunican a través de mensajes. El enfoque se basa en la idea de que las personas que más se comunican entre ellas, tienen enlaces más fuertes y, por lo tanto, se consideran más amigos, inspirándose en las estructuras de redes sociales como Facebook.
+
+A continuación se detallan los aspectos clave de este reto de proyecto:
+
+Objetivo Principal:
+Demostrar las habilidades adquiridas para abstraer soluciones a problemas que involucran colecciones de datos.
+Diseñar un programa que analice el historial de mensajes de un sistema de chat y establezca relaciones entre usuarios.
+El programa debe presentar cuales son las personas más amigas, cual persona tiene más amigos, cual es la relación más fuerte.
+
+Especificaciones del Programa:
+Los estudiantes tienen libertad para elegir el lenguaje de programación en el que deseen desarrollar el programa.
+El programa debe ser funcional y capaz de analizar un conjunto de datos de mensajes, que incluye información como id_persona_origen, id_persona_destino, fecha y mensaje.
